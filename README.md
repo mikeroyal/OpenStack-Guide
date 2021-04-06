@@ -11,11 +11,11 @@
  
 # Table of Contents
 
-1. [OpenStack Learning Resources](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#docker-learning-resources)
+1. [OpenStack Learning Resources](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#openstack-learning-resources)
 
-2. [Openstack Tools](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#docker-tools)
+2. [Openstack Tools](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#openstack-tools)
 
-3. [OpenStack Devops Tools Integration](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#docker-devops-tools-integration)
+3. [OpenStack Devops Tools Integration](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#openstack-devops-tools-integration)
  
 4. [Networking](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#networking)
 
