@@ -1470,3 +1470,12 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp), that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) and supports [explainshell](https://explainshell.com/) integration.
 
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/OpenStack-Guide/pulls).
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
