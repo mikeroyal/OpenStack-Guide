@@ -1184,3 +1184,289 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Matplotlib](https://matplotlib.org/) is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.
+
+# Ruby Development
+
+[Back to the Top](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719684-07282300-fb39-11ea-98fd-90394a2df6f2.png">
+  <br />
+</p>
+
+
+## Ruby Learning Resources
+
+[Ruby](https://www.ruby-lang.org/en/) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+[Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
+
+[Ruby Community](https://www.ruby-lang.org/en/community/)
+
+[Ruby Gems](https://guides.rubygems.org/rubygems-basics/)
+
+[Ruby courses by Coursera](https://www.coursera.org/courses?query=ruby)
+
+[Learn Ruby course by Codecademy](https://www.codecademy.com/learn/learn-ruby)
+
+[Ruby Glossary](https://www.codecademy.com/articles/glossary-ruby)
+
+[Ruby in Twenty Minutes Quickstart](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+[Getting started with a Ruby on Rails application on CircleCI.](https://circleci.com/docs/2.0/language-ruby/)
+
+[The Ruby Style Guide](https://rubystyle.guide)
+
+[Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
+
+## Ruby Dev Tools
+
+[RubyMine](https://www.jetbrains.com/ruby/) is a professional IDE developed by Jet Brains that provides support for Ruby, Ruby on Rails and web development.
+
+[Rails](https://rubyonrails.org/) is a web-application framework that includes everything needed to create database-backed web applications according to the [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility.
+
+[rbenv](https://github.com/rbenv/rbenv) allows to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+
+[Prettier for Ruby](https://prettier.io/) is a plugin for the Ruby programming language and its ecosystem. prettier is an opinionated code formatter that supports multiple languages and integrates with most editors. The idea is to eliminate discussions of style in code review and allow developers to get back to thinking about code design instead.
+
+[Active Admin](https://activeadmin.info/) is a Ruby on Rails framework for creating elegant backends for website administration.
+
+[Capistrano](https://github.com/capistrano/capistrano) is a framework for building automated deployment scripts. Although Capistrano itself is written in Ruby, it can easily be used to deploy projects of any language or framework, be it Rails, Java, or PHP.
+
+[Spree](https://spreecommerce.org/) is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations.
+
+[Sidekiq](https://sidekiq.org/) is a simple, efficient background processing for Ruby. It uses hreads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails to make background processing dead simple.
+
+[Kaminari](https://github.com/amatsuda/kaminari/wiki) is a  Scope and Engine based, clean, powerful, and customizable  paginator for modern web app frameworks and ORMs.
+
+[React-Rails](https://github.com/reactjs/react-rails) is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. By integrating React.js with Rails views and controllers, the asset pipeline, or webpacker.
+
+[Pry](https://github.com/pry/pry) is a runtime developer console and IRB alternative with powerful introspection capabilities.
+
+[Brakeman](https://brakemanscanner.org/) is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+
+[dotenv](https://github.com/bkeepers/dotenv) is a Ruby gem to load environment variables from `.env`.
+
+[Scientist](https://github.com/github/scientist) is a Ruby library for carefully refactoring critical paths.
+
+[fastlane](https://fastlane.tools/) is a tool written in Ruby for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
+
+[Fluentd](https://www.fluentd.org/) collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on all written in Ruby.
+
+
+# Node.js Development
+
+[Back to the Top](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719688-0becd700-fb39-11ea-9b87-3d52f1828aee.png">
+  <br />
+</p>
+
+## Node.js Learning Resources
+
+[Node.js](https://nodejs.org/) is a JavaScript runtime built on Chrome's V8 JavaScript engine that lets developers write command line tools and server-side scripts outside of a browser.
+
+[Node.js Build Working Group](https://github.com/nodejs/build) maintains and controls infrastructure used for continuous integration (CI), releases, benchmarks, web hosting (of nodejs.org and other Node.js web properties) and more.
+
+[The OpenJS Foundation](https://openjsf.org/) is made up of 32 open source JavaScript projects including Appium, Dojo, Electron, jQuery, Node.js, and webpack. The foundation's mission is to support the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects, as well as collaboratively fund activities that benefit the ecosystem as a whole.
+
+[Set up NodeJS on WSL 2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
+
+[Getting started with Node.js in Google Cloud](https://cloud.google.com/nodejs/getting-started)
+
+[Getting Started with Node.js in AWS](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html)
+
+[Node.js App Hosting & Deployment in Microsoft Azure](https://azure.microsoft.com/en-us/develop/nodejs/)
+
+[The Node.js best practices list ](https://github.com/goldbergyoni/nodebestpractices)
+
+[Introduction to Node.js by W3Schools](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+
+[The Node.js Community Committee](https://github.com/nodejs/community-committee)
+
+[Node.js Mentorship Program Initiative](https://github.com/nodejs/mentorship)
+
+[Node.js tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+
+[Server-side Development with NodeJS, Express and MongoDB on Coursera](https://www.coursera.org/learn/server-side-nodejs)
+
+## Node.js Tools
+
+[NPM](https://www.npmjs.com/) is the company behind Node package manager, the npm Registry, and npm CLI. 
+
+[node-gyp](https://github.com/nodejs/node-gyp) is a cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js. It contains a vendored copy of the gyp-next project that was previously used by the Chromium team, extended to support the development of Node.js native addons.
+
+[nvm ](https://github.com/nvm-sh/nvm) is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.
+
+[node-docker](https://hub.docker.com/_/node/) is the official Node.js docker image, made with love by the node community.
+
+[Mocha](https://github.com/mochajs/mocha) is a simple, flexible, fun JavaScript test framework for Node.js & The Browser.
+
+[AVA](https://github.com/avajs/ava) is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that lets you develop with confidence.
+
+[egg](https://eggjs.org/) is a born to build better enterprise frameworks and apps with Node.js & Koa.
+
+[mysqljs](https://github.com/mysqljs/mysql) is a pure node.js JavaScript Client implementing the MySQL protocol. 
+
+[axios](https://github.com/axios/axios) is a promise based HTTP client for the browser and node.js.
+
+[Fastify](https://www.fastify.io/) is a fast and low overhead web framework, for Node.js. 
+
+[Express](https://expressjs.com/) is a fast, unopinionated, minimalist web framework for node.
+
+[Meteor](https://www.meteor.com/) is an ultra-simple environment for building modern web applications with JavavScript. 
+
+[NW.js](https://nwjs.io/) is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
+
+[PM2](https://pm2.io/) is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+
+[NestJS](https://nestjs.com/) is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+[jenkins-nodejs](https://plugins.jenkins.io/nodejs/) is a Jenkins plugin for Node.js that provides the NodeJS auto-installer, allowing to create as many NodeJS installations "profiles" as you want.
+
+[Strapi](https://strapi.io/) is an open source Node.js Headless CMS to easily build customisable APIs. 
+
+[Standard](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer.
+
+[React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
+
+[Hexo](https://hexo.io/) is a A fast, simple & powerful blog framework, powered by Node.js. 
+
+# Go Development
+
+[Back to the Top](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719679-068f8c80-fb39-11ea-8baa-9e779ee58a0a.png">
+  <br />
+</p>
+
+## Go Learning Resources
+
+[Go](https://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+[Golang Contribution Guide](https://golang.org/doc/contribute.html)
+
+[Google Developers Training](https://developers.google.com/training/)
+
+[Google Developers Certification](https://developers.google.com/certification/)
+
+[Uber's Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+
+[GitLab's Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide/)
+
+[Effective Go](https://golang.org/doc/effective_go.html)
+
+[Go: The Complete Developer's Guide (Golang) on Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)
+
+[Getting Started with Go on Coursera](https://www.coursera.org/learn/golang-getting-started)
+
+[Programming with Google Go on Coursera](https://www.coursera.org/specializations/google-golang)
+
+[Learning Go Fundamentals on Pluralsight](https://www.pluralsight.com/courses/go-fundamentals)
+
+[Learning Go on Codecademy](https://www.codecademy.com/learn/learn-go)
+
+## Go Tools
+
+[golang tools](https://pkg.go.dev/golang.org/x/tools) holds the source for various packages and tools that support the Go programming language.
+
+[Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go) is an extension that gives you language features like IntelliSense, code navigation, symbol search, bracket matching, snippets, and many more that will help you in Golang development.
+
+[Traefik](https://github.com/traefik/traefik) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, etc.) and configures itself automatically and dynamically. Pointing Traefik at your orchestrator should be the only configuration step you need.
+
+[Gitea](https://github.com/go-gitea/gitea) is Git with a cup of tea, painless self-hosted git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures. 
+
+[OpenFaaS](https://github.com/openfaas/faas) is Serverless Functions Made Simple. It makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
+
+[micro](https://github.com/zyedidia/micro) is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. As its name indicates, micro aims to be somewhat of a successor to the nano editor by being easy to install and use. It strives to be enjoyable as a full-time editor for people who prefer to work in a terminal, or those who regularly edit files over SSH.
+
+[Gravitational Teleport](https://github.com/gravitational/teleport) is a modern security gateway for remotely accessing into Clusters of Linux servers via SSH or SSH-over-HTTPS in a browser or Kubernetes clusters.
+
+[NATS](https://nats.io/) is a simple, secure and performant communications system for digital systems, services and devices. NATS is part of the Cloud Native Computing Foundation (CNCF). NATS has over 30 client language implementations, and its server can run on-premise, in the cloud, at the edge, and even on a Raspberry Pi. NATS can secure and simplify design and operation of modern distributed systems.
+
+[Act](https://github.com/nektos/act) is a GO program that allows you to run our GitHub Actions locally.
+
+[Fiber](https://gofiber.io/) is an [Express](https://github.com/expressjs/express) inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind. 
+
+[Glide](https://github.com/Masterminds/glide) is a vendor Package Management for Golang.
+
+[BadgerDB](https://github.com/dgraph-io/badger) is an embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for [Dgraph](https://dgraph.io/), a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
+
+[Go kit](https://github.com/go-kit/kit) is a programming toolkit for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture so you can focus on delivering business value.
+
+[Codis](https://github.com/CodisLabs/codis) is a proxy based high performance Redis cluster solution written in Go.
+
+[zap](https://github.com/uber-go/zap) is a blazing fast, structured, leveled logging in Go. 
+
+[HttpRouter](https://github.com/julienschmidt/httprouter) is a lightweight high performance HTTP request router (also called multiplexer or just mux for short) for Go.
+
+[Gorilla WebSocket](https://github.com/gorilla/websocket) is a Go implementation of the WebSocket protocol.
+
+[Delve](https://github.com/go-delve/delve) is a debugger for the Go programming language. 
+
+[GORM](https://github.com/go-gorm/gorm) is a fantastic ORM library for Golang, aims to be developer friendly.
+
+[Go Patterns](https://github.com/tmrts/go-patterns) is a curated collection of idiomatic design & application patterns for Go language.
+
+
+# Bash/PowerShell Development
+
+[Back to the Top](https://github.com/mikeroyal/OpenStack-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
+  <br />
+</p>
+
+## Bash/PowerShell Learning Resources
+
+[Introduction to Bash Shell Scripting by Coursera](https://www.coursera.org/projects/introduction-to-bash-shell-scripting)
+
+[Bash: Shell Script Basics by Pluralsight](https://www.pluralsight.com/courses/bash-shell-scripting)
+
+[Bash/Shell by Codecademy](https://www.codecademy.com/catalog/language/bash)
+
+[Windows Remote Management in Ansible using PowerShell](https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html)
+
+[Getting Started with PowerShell](https://docs.microsoft.com/en-us/powershell/)
+
+[PowerShell in Azure Cloud Shell](https://aka.ms/cloudshell/powershell-docs)
+
+[Azure Functions using PowerShell](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-powershell)
+
+[Azure Automation runbooks](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
+
+[Using Visual Studio Code for PowerShell Development](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/vscode/using-vscode?view=powershell-7)
+
+[Integrated Terminal in Visual Studio Code](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+[AWS Tools for Windows PowerShell](https://aws.amazon.com/powershell/)
+
+[PowerShell Best Practices and Style Guide](https://poshcode.gitbooks.io/powershell-practice-and-style)
+
+[AWS Command Line Interface and aws-shell Sample for AWS Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-aws-cli.html)
+
+[Configuring Cloud Shell on Google Cloud](https://cloud.google.com/shell/docs/configuring-cloud-shell)
+
+[Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+## Bash/ PowerShell Tools
+
+[Bash](https://www.gnu.org/software/bash/) is the GNU Project's shell(Bourne Again SHell), which is an sh-compatible shell that integrates together useful features from the Korn shell (ksh) and the C shell (csh).
+
+[PowerShell Core](https://microsoft.com/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (JSON, CSV, XML, etc.), REST APIs, and object models. It also includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+
+[Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/overview) is a set of cmdlets for managing Microsoft Azure resources directly from the PowerShell command line. 
+
+[Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/) is a compatibility layer developed by Microsoft for running Linux binary executables in a Executable/Linkable Format natively on Windows 10 and Windows Server.
+
+[AWS Shell](https://aws.amazon.com/cli/) is a command-line shell program that provides convenience and productivity features to help both new and advanced users of the AWS Command Line Interface.
+
+[Google Cloud Shell](https://cloud.google.com/shell/) is a free admin machine with browser-based command-line access for managing your infrastructure and applications on Google Cloud Platform.
+
+[VS Code Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug) is a bash debugger GUI frontend based on awesome bashdb scripts (bashdb now included in package).
+
+[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp), that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) and supports [explainshell](https://explainshell.com/) integration.
+
